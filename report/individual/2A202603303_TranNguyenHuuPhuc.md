@@ -29,9 +29,9 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 | Chỉ số | Trước sửa | Sau sửa nếu có |
 |---|---:|---:|
-| TP | | 478 |
-| FP | | 137 |
-| FN | | 175 |
+| TP | 368 | 478 |
+| FP | 274 | 137 |
+| FN | 285 | 175 |
 | Precision | | 0.7772 |
 | Recall | | 0.7320 |
 | F1 | 0.5683 | 0.7539 |
